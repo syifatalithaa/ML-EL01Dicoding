@@ -1,0 +1,83 @@
+Learning Path ID,Learning Path,Course ID,Course Name,Level
+7,Android Developer,80,Memulai Pemrograman dengan Kotlin,Dasar
+,,51,Belajar Membuat Aplikasi Android untuk Pemula,Pemula
+,,14,Belajar Fundamental Aplikasi Android,Menengah
+,,352,Belajar Pengembangan Aplikasi Android Intermediate,Mahir
+,,169,Belajar Prinsip Pemrograman SOLID,Menengah
+,,165,Menjadi Android Developer Expert,Profesional
+41,Back-End Developer JavaScript,251,Cloud Practitioner Essentials (Belajar Dasar AWS Cloud),Dasar
+,,256,Belajar Dasar Pemrograman JavaScript,Dasar
+,,261,Belajar Back-End Pemula dengan JavaScript,Pemula
+,,266,Architecting on AWS (Membangun Arsitektur Cloud di AWS),Menengah
+,,610,Menjadi Node.js Application Developer,Menengah
+,,271,Belajar Fundamental Back-End dengan JavaScript,Menengah
+,,276,Menjadi Back-End Developer Expert dengan JavaScript,Mahir
+60,Data Scientist,615,Belajar Dasar Data Science,Dasar
+,,600,Belajar Dasar Structured Query Language (SQL),Dasar
+,,86,Memulai Pemrograman dengan Python,Dasar
+,,555,Belajar Analisis Data dengan Python,Pemula
+,,184,Belajar Machine Learning untuk Pemula,Pemula
+,,185,Belajar Pengembangan Machine Learning,Menengah
+,,590,Belajar Penerapan Data Science,Mahir
+53,DevOps Engineer,382,Belajar Dasar-Dasar DevOps,Dasar
+,,387,Belajar Jaringan Komputer untuk Pemula,Pemula
+,,423,Menjadi Linux System Administrator,Menengah
+,,428,Belajar Implementasi CI/CD,Menengah
+,,433,Belajar Membangun Arsitektur Microservices,Mahir
+22,Front-End Web Developer,123,Belajar Dasar Pemrograman Web,Dasar
+,,256,Belajar Dasar Pemrograman JavaScript,Dasar
+,,315,Belajar Membuat Front-End Web untuk Pemula,Pemula
+,,163,Belajar Fundamental Front-End Web Development,Menengah
+,,565,Belajar Tools Front-End Web Intermediate,Mahir
+,,219,Menjadi Front-End Web Developer Expert,Profesional
+52,Google Cloud Professional,337,Belajar Dasar Google Cloud,Dasar
+,,256,Belajar Dasar Pemrograman JavaScript,Dasar
+,,342,Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud,Pemula
+,,133,Menjadi Google Cloud Engineer,Menengah
+,,332,Menjadi Google Cloud Architect,Mahir
+9,iOS Developer,145,Memulai Pemrograman Dengan Swift,Dasar
+,,171,Belajar Membuat Aplikasi iOS untuk Pemula,Pemula
+,,202,Belajar Fundamental Aplikasi iOS,Menengah
+,,169,Belajar Prinsip Pemrograman SOLID,Menengah
+,,209,Menjadi iOS Developer Expert,Mahir
+30,Machine Learning Engineer,177,Belajar Dasar Visualisasi Data,Dasar
+,,86,Memulai Pemrograman dengan Python,Dasar
+,,184,Belajar Machine Learning untuk Pemula,Pemula
+,,185,Belajar Pengembangan Machine Learning,Menengah
+,,319,Machine Learning Terapan,Mahir
+,,443,Machine Learning Operations (MLOps),Mahir
+21,Multi-Platform App Developer,191,Memulai Pemrograman dengan Dart,Dasar
+,,159,Belajar Membuat Aplikasi Flutter untuk Pemula,Pemula
+,,195,Belajar Fundamental Aplikasi Flutter,Menengah
+,,480,Belajar Pengembangan Aplikasi Flutter Intermediate,Mahir
+,,169,Belajar Prinsip Pemrograman SOLID,Menengah
+,,199,Menjadi Flutter Developer Expert,Profesional
+58,React Developer,123,Belajar Dasar Pemrograman Web,Dasar
+,,256,Belajar Dasar Pemrograman JavaScript,Dasar
+,,315,Belajar Membuat Front-End Web untuk Pemula,Pemula
+,,403,Belajar Membuat Aplikasi Web dengan React,Pemula
+,,413,Belajar Fundamental Aplikasi Web dengan React,Menengah
+,,418,Menjadi React Web Developer Expert,Mahir
+Non Learning Path,,313,Belajar Membuat Augmented Reality dengan Lens Studio,Pemula
+,,32,Belajar Membangun LINE Chatbot,Pemula
+,,153,Belajar Membangun LINE Front-end Framework (LIFF),Pemula
+,,237,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,Dasar
+,,281,Simulasi Ujian Associate Cloud Engineer,Kompetensi Sertifikasi
+,,287,Simulasi Ujian Associate Android Developer,Kompetensi Sertifikasi
+,,312,Simulasi Ujian TensorFlow Developer Certificate,Kompetensi Sertifikasi
+,,317,Belajar Dasar Git dengan GitHub,Dasar
+,,335,Belajar Dasar UX Design,Dasar
+,,445,Belajar Membuat Aplikasi Android dengan Jetpack Compose,Mahir
+,,505,Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian),Kompetensi Sertifikasi
+,,545,Simulasi Ujian Pendidik Level 2 (Google Certified Educator Level 2 - Indonesian),Kompetensi Sertifikasi
+,,550,Simulasi Ujian Penilaian Keterampilan Pelatih (Trainer Skills Assessment - Indonesian),Kompetensi Sertifikasi
+,,570,Belajar Dasar Manajemen Proyek,Dasar
+,,580,Belajar Pemrograman Fungsional dengan Haskell,Pemula
+,,605,Memulai Pemrograman dengan Haskell,Dasar
+,,620,Belajar Pemrograman Prosedural dengan Python,Pemula
+,,653,Belajar Dasar AI,Dasar
+,,658,Belajar Penerapan Machine Learning dengan Google Cloud,Mahir
+,,663,Belajar Penerapan Machine Learning untuk Android,Mahir
+,,697,Belajar Strategi Pengembangan Diri,Dasar
+,,698,Dev Certification for Machine Learning with Tensorflow (DCML) Preparation,Kompetensi Sertifikasi
+,,703,Dev Certification for Android (DCA) Preparation,Kompetensi Sertifikasi
